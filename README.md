@@ -1,11 +1,9 @@
 # NLP from Scratch
 
 ### Notebooks:
-- Character level language models:
+- Character-level language models:
     - [Recurrent Neural Network (RNN)](rnn.ipynb)
     - [Bigram](bigram.ipynb)
-- Embeddings
-    - [Playing with pre-trained GloVe Embeddings](word_embeddings.ipynb)
 
 ### Datasets:
 - [names_ES.txt](datasets/names_ES.txt): 3 million Spanish names.
@@ -17,3 +15,5 @@
 - BERT (+15 languages): Fine-tuning a Large Language Model (LLM) with TensorFlow: [Notebook](https://www.kaggle.com/code/kepler296b/wabertson)
 
 - Azure AI (Sentiment Analysis) + Python Backend with Django: [Web App](https://kepler42.pythonanywhere.com/)
+
+- Word Embeddings: [Notebook](word_embeddings.ipynb)
