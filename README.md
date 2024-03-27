@@ -16,4 +16,4 @@
 - [dinos.txt](data/dinos.txt): 1.5k dinosaur names.
 - [names_3M_ARG.txt](data/names_3M_ARG.txt): 3M Argentine names.
 - [glove.6B.50d.txt](https://www.kaggle.com/datasets/watts2/glove6b50dtxt): 6B tokens, 400k vocab, uncased, 50d vectors.
-- [IMDB_50k.csv](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews): 50k IMDB movie reviews (positive/negative).
+- [IMDb_50k.csv](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews): 50k IMDb movie reviews (positive/negative).
