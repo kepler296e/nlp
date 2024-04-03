@@ -7,9 +7,9 @@
 
 ### Using libraries:
 <em>"On the shoulders of giants"</em> - Isaac Newton
-- Positional Encodings: [Notebook](positional_encodings.ipynb)
 - Sentiment Analysis (LSTM, Bidirectional, Pre-trained GloVe): [Notebook](sentiment_analysis.ipynb)
 - Word Embeddings (Pre-trained GloVe: Arithmetic, t-SNE, Clustering): [Notebook](word_embeddings.ipynb)
+- Positional Encodings (Sine, Cosine): [Notebook](positional_encodings.ipynb)
 - Azure AI (Sentiment Analysis) + Python Backend with Django: [Web App](https://kepler42.pythonanywhere.com/)
 - BERT (+15 languages): Fine-tuning a Large Language Model (LLM) with TensorFlow: [Notebook](https://www.kaggle.com/code/kepler296b/wabertson)
 
