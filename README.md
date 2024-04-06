@@ -5,6 +5,9 @@
     - [Recurrent Neural Network (RNN)](rnn.ipynb)
     - [Bigram](bigram.ipynb)
 
+### NLP and Computer Vision:
+- Image Captioning: Vision Transformer (CNN + LSTM): [Notebook](image_captioning.ipynb)
+
 ### Using libraries:
 <em>"On the shoulders of giants"</em> - Isaac Newton
 - Sentiment Analysis (LSTM, Bidirectional, Pre-trained GloVe): [Notebook](sentiment_analysis.ipynb)
