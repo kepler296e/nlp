@@ -6,7 +6,7 @@
     - [Bigram](bigram.ipynb)
 
 ### NLP and Computer Vision:
-- Image Captioning: Vision Transformer (CNN + LSTM): [Notebook](image_captioning.ipynb)
+- Image Captioning Transformer (CNN Encoder, Attention, LSTM Decoder): [Notebook](image_captioning.ipynb)
 
 ### Using libraries:
 <em>"On the shoulders of giants"</em> - Isaac Newton
